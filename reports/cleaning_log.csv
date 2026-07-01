@@ -1,0 +1,7 @@
+Dataset,Cleaning Step,Records Affected
+Translation,Renamed columns,2
+Geolocation,Removed duplicate rows,261831
+Geolocation,Removed invalid latitude records,27
+Geolocation,Removed invalid longitude records,0
+Geolocation,Standardized city names,738305
+Translation,Removed duplicated header row,1
