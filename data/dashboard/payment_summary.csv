@@ -1,0 +1,6 @@
+primary_payment_type,orders,revenue
+boleto,19784,2391525.66
+credit_card,76132,10838035.52
+debit_card,1527,183630.85
+not_defined,3,0.0
+voucher,1994,178316.7
